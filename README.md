@@ -10,4 +10,4 @@ To do:
 - moveToPoint angle enforcement varient: enforces an ending angle by introducing an intermediate point near target position
 - model-based predictive control
 
-[![See a demo here!](https://img.youtube.com/vi/tyvMc4kllNc&ab_channel=LeoXie/0.jpg)](https://www.youtube.com/watch?v=tyvMc4kllNc&ab_channel=LeoXie)
+[![YouTube](http://i.ytimg.com/vi/tyvMc4kllNc/hqdefault.jpg)](https://www.youtube.com/watch?v=tyvMc4kllNc)
