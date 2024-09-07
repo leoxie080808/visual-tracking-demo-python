@@ -1,4 +1,4 @@
-# visual tracking tool 
+# Visual Tracking and Motion Tool 
 Python script to demonstrate the localization algorithm and associated motion algorithms
 Features: 
 - moveToPoint performance varient: prioritizes quickly turning to target while moving before traversing near max speed
